@@ -1,4 +1,18 @@
+
+using CleanArchitecture.Domain.Interfaces;
+using CleanArchitecture.Infrastructure.Data;
+using CleanArchitecture.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
+using System;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Custom code
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer("ConnectionString"));  // *validate db connection
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddControllers();
+// Custom code //
 
 // Add services to the container.
 
@@ -23,3 +37,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+//data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CSHARP_REACT; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True;
