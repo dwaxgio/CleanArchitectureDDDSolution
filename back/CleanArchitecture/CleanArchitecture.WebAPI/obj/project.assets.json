@@ -2184,6 +2184,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "CleanArchitecture.Domain": "1.0.0",
+          "CleanArchitecture.Infrastructure": "1.0.0",
           "Hangfire": "1.8.17",
           "Hangfire.SqlServer": "1.8.17",
           "Microsoft.Data.SqlClient": "5.2.2",

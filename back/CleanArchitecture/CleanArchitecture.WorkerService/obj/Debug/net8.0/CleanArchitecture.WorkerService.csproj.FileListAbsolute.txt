@@ -109,3 +109,12 @@ D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerS
 D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\obj\Debug\net8.0\CleanArchitecture.WorkerService.pdb
 D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\obj\Debug\net8.0\CleanArchitecture.WorkerService.genruntimeconfig.cache
 D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\obj\Debug\net8.0\ref\CleanArchitecture.WorkerService.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\CleanArchitectureDDDSolution\back\CleanArchitecture\CleanArchitecture.WorkerService\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
