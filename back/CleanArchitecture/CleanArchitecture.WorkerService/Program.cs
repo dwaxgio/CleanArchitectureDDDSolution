@@ -1,7 +1,15 @@
-using CleanArchitecture.WorkerService;
+using CleanArchitecture.WorkerService.Jobs;
+using Hangfire;
+using Microsoft.AspNetCore.Builder;
 
-var builder = Host.CreateApplicationBuilder(args);
-builder.Services.AddHostedService<Worker>();
+var builder = WebApplication.CreateBuilder(args);
 
-var host = builder.Build();
-host.Run();
+builder.Services.AddHangfire(config => config.UseSqlServerStorage("YourConnectionString"));
+builder.Services.AddHangfireServer();
+
+var app = builder.Build();
+
+app.UseHangfireDashboard();
+RecurringJob.AddOrUpdate<UserSyncJob>("sync-users", job => job.SyncUsers(), Cron.Hourly);
+
+app.Run();

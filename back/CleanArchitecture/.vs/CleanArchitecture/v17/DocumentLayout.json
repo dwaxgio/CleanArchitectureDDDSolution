@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\jobs\\usersyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\jobs\\usersyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\User.cs",
@@ -52,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
@@ -66,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
@@ -80,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
@@ -94,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Controllers\\UsersController.cs",
@@ -108,16 +120,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Program.cs",
               "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeToolTip": "CleanArchitecture.WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:20:31.284Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSyncJob.cs",
+              "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
+              "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
+              "RelativeToolTip": "CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:32:13.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Program.cs",
+              "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WorkerService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:42:52.439Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Worker.cs",
+              "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Worker.cs",
+              "RelativeToolTip": "CleanArchitecture.WorkerService\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:29:47.911Z",
               "EditorCaption": ""
             }
           ]
