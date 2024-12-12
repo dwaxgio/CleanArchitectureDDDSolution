@@ -29,6 +29,7 @@
       </button>
     </div>
   </div>
+  Developed by <strong>Edward Giraldo</strong>
 </template>
 
 <script lang="ts">
