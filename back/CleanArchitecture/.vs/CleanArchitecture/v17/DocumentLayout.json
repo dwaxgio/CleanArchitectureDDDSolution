@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\User.cs",
@@ -67,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
@@ -80,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
@@ -93,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Controllers\\UsersController.cs",
@@ -115,18 +119,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:17:34.774Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Program.cs",
               "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeToolTip": "CleanArchitecture.WebAPI\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:20:31.284Z",
               "IsPinned": true,
@@ -134,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserSyncJob.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
@@ -143,18 +146,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:32:13.816Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Program.cs",
               "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs",
               "RelativeToolTip": "CleanArchitecture.WorkerService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAADvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:42:52.439Z",
               "IsPinned": true,
@@ -163,6 +165,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\appsettings.json",
+              "ToolTip": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.WorkerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T02:28:52.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Worker.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Worker.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Worker.cs",
@@ -170,12 +185,11 @@
               "RelativeToolTip": "CleanArchitecture.WorkerService\\Worker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T00:29:47.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T00:29:47.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Controllers\\WeatherForecastController.cs",
@@ -183,8 +197,7 @@
               "RelativeToolTip": "CleanArchitecture.WebAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T02:21:49.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T02:21:49.894Z"
             }
           ]
         }
