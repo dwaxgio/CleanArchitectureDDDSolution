@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WorkerService\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\cleanarchitecture.workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\cleanarchitecture.workerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.workerservice\\jobs\\usersyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04B7FC7-9AA8-4408-9774-0FE19B586A1B}|CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj|solutionrelative:cleanarchitecture.workerservice\\jobs\\usersyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WebAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E43913D-9820-40B1-AACE-736F3EE3EA70}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WorkerService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Migrations\\20241212032129_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Infrastructure\\Migrations\\20241212032129_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C773ED3D-6CFC-4726-9A76-C4020D4B9014}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\cleanarchitecturedddsolution\\back\\cleanarchitecture\\cleanarchitecture.infrastructure\\migrations\\20241212032129_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D938B06-5A13-46B0-9D6F-DE3DF2BD6A61}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\migrations\\20241212032129_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\User.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Program.cs",
@@ -144,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserSyncJob.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Jobs\\UserSyncJob.cs",
@@ -157,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\Program.cs",
@@ -170,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "20241212032129_CreateUserTable.cs",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Migrations\\20241212032129_CreateUserTable.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Migrations\\20241212032129_CreateUserTable.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "CleanArchitecture.WorkerService.csproj",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj",
               "RelativeDocumentMoniker": "CleanArchitecture.WorkerService\\CleanArchitecture.WorkerService.csproj",
@@ -220,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "CleanArchitecture.WebAPI.csproj",
               "DocumentMoniker": "D:\\CleanArchitectureDDDSolution\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",

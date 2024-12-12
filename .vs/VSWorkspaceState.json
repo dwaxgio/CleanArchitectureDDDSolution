@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\back",
+    "\\back\\CleanArchitecture",
+    "\\back\\CleanArchitecture\\CleanArchitecture.WebAPI",
+    "\\back\\CleanArchitecture\\CleanArchitecture.WebAPI\\Controllers",
+    "\\back\\CleanArchitecture\\CleanArchitecture.WorkerService",
+    "\\back\\CleanArchitecture\\CleanArchitecture.WorkerService\\Jobs",
+    "\\front",
+    "\\front\\src",
+    "\\front\\src\\components"
   ],
-  "SelectedNode": "\\back",
   "PreviewInSolutionExplorer": false
 }
