@@ -9,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Custom code
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("ConnectionString"));  // *validate db connection
+    //options.UseSqlServer("ConnectionString"));  // *validate db connection
+    options.UseSqlServer("data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CleanArchitectureDDDSolution; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True"));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddControllers();
 // Custom code //
@@ -37,6 +38,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-
-//data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CSHARP_REACT; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True;

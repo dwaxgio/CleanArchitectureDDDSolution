@@ -31,5 +31,26 @@ namespace CleanArchitecture.WorkerService.Jobs
             }).ToList();
             await _repository.UpsertUsersAsync(users);
         }
+
+        public class ApiResponse { 
+            public List<Result> Results { get; set; } 
+        }
+        public class Result { 
+            public Name Name { get; set; } 
+            public Location Location { get; set; } 
+            public string Email { get; set; } 
+            public Picture Picture { get; set; } 
+        }
+        public class Name { 
+            public string First { get; set; } 
+            public string Last { get; set; } 
+        }
+        public class Location { 
+            public string Country { get; set; } 
+            public string City { get; set; } 
+        }
+        public class Picture { 
+            public string Large { get; set; } 
+        }
     }
 }
