@@ -59,7 +59,7 @@ This project implements a **Clean Architecture** combined with the **Domain-Driv
 2. **Setup the Database**
    - Update the connection string in `Program.cs` of `CleanArchitecture.WebAPI` and `CleanArchitecture.WorkerService`:
      ```csharp
-     options.UseSqlServer("data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CleanArchitectureDDDSolution; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True");
+     options.UseSqlServer("data source=PC\\SQLEXPRESS; initial catalog=DB_CleanArchitectureDDDSolution; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True");
      ```
 
    - Run the following commands to apply migrations:
