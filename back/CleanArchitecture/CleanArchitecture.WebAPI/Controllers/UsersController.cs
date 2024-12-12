@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CleanArchitecture.WebAPI.Controllers
 {
     [ApiController]
-    [Route("[controller")]
+    [Route("[controller]")]
     public class UsersController : ControllerBase
     {
         private readonly IUserRepository _repository;

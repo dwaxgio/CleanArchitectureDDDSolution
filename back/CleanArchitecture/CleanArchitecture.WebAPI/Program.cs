@@ -9,8 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Custom code
 builder.Services.AddDbContext<AppDbContext>(options =>
-    //options.UseSqlServer("ConnectionString"));  // *validate db connection
-    options.UseSqlServer("data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CleanArchitectureDDDSolution; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True"));
+   //options.UseSqlServer("ConnectionString"));  // *validate db connection
+   options.UseSqlServer("data source=PC_EDWARD\\SQLEXPRESS; initial catalog=DB_CleanArchitectureDDDSolution; MultipleActiveResultSets=true; TrustServerCertificate=True; Integrated Security=True", 
+   b => b.MigrationsAssembly("CleanArchitecture.Infrastructure")));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddControllers();
 // Custom code //
